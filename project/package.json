@@ -1,0 +1,14 @@
+{
+  "name": "pdf-testing",
+  "version": "0.1.0",
+  "description": "testing html-to-pdf",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html5-to-pdf": "^1.1.3"
+  }
+}
